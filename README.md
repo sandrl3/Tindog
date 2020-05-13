@@ -1,2 +1,1 @@
-# Tindog
-Docs
+TinDog Starting Files
